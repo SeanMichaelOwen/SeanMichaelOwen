@@ -8,6 +8,14 @@ Coding is more than just a profession for me—it's a passion and a hobby that f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeanMichaelOwen&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMichaelOwen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 🌱 Research:
+AgriTech and Precision Agriculture <br/>
+Digital Livestock Management / Smart Farming Systems <br/>
+Smart Aquaculture and Fisheries Modelling <br/>
+Computational Biology & Bioinformatics <br/>
+Food Safety Informatics / Digital Food Security <br/>
+Computational Economics and Financial Modelling <br/>
+
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SeanMichaelOwen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
