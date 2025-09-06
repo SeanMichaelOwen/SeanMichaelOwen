@@ -15,6 +15,16 @@ Smart Aquaculture and Fisheries Modelling <br/>
 Computational Biology & Bioinformatics <br/>
 Food Safety Informatics / Digital Food Security <br/>
 Computational Economics and Financial Modelling <br/>
+Blockchain 
+
+# 🌐 Web Tools
+Export & Import Management <br/>
+AI Sales Agent <br/>
+Online Store <br/>
+Cashier Application <br/>
+Stock / Inventory Management System <br/>
+Business statistics Tools <br/>
+Simple Company Profile <br/>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SeanMichaelOwen&limit=5&theme=dark&combine_all_yearly_contributions=true)
